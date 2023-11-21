@@ -1,0 +1,2 @@
+test-vpc/.terraform/
+test-vpc/terraform.tfstate
